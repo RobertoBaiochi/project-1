@@ -1,0 +1,8 @@
+.btn-pages {
+  width: 100%;
+  background-color: darkblue;
+  color: white;
+  border: none;
+  padding: .75em 3em;
+  cursor: pointer;
+}

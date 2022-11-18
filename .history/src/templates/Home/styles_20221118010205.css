@@ -1,0 +1,12 @@
+.container {
+  max-width: 1200px;
+  margin-inline: auto;
+  min-height: 100vh;
+  background: #eee;
+  padding: 2rem;
+}
+
+.button-container {
+  height: 4em;
+}
+
